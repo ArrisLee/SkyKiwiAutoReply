@@ -6,7 +6,7 @@
   "description": "A tiny app which could be utilized to auto reply threads on Skykiwi BBS",
   "content_scripts": [
     {
-      "matches": ["http://bbs.skykiwi.com/forum.php?mod=viewthread&tid=3464890*"],
+      "matches": ["http://bbs.skykiwi.com/forum.php?mod=viewthread&tid=<your_thread_id_here>*"],
       "js": ["myscript.js"]
     }
   ]
