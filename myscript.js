@@ -1,6 +1,6 @@
 console.log("Process start...");
 //initial reply selections
-var dataset = ["国庆特惠: 所有新客户皆可享受85折优惠！","我们期待为您提供高质量、高性价比的服务！"];
+var dataset = ["your messages one","your messages two"];
 
 //set min max waiting time for autoreply
 var max = 60000;
