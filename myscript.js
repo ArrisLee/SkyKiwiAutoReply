@@ -20,9 +20,9 @@ setTimeout(function(){
   var question = x[0].textContent.substr(9,7);
   var answer = eval(question);
   document.getElementsByName("secanswer")[0].value = answer;
-  console.log("Question: " + question + "\nAnswer: " + answer)
+  console.log("Question: " + question + "\nAnswer: " + answer);
  } else {
-  console.log('No question identified.')
+  console.log('No question identified.');
  }
 }, 5000);
 
