@@ -1,7 +1,7 @@
 {
   "name": "SkyReply",
   "manifest_version": 2,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "icons": { "16": "logo.png","48": "logo.png","128": "logo.png" },
   "description": "A tiny app which could be utilized to auto reply threads on Skykiwi BBS",
   "content_scripts": [
