@@ -1,6 +1,9 @@
 # SkyKiwiAutoReply
 A tiny chrome plugin to auto reply threads on Skykiwi BBS
 
+## Version 2.0.0
+Add auto detecting and answering verify questions function
+
 ## Version 1.0.1
 Add random ads function
 
