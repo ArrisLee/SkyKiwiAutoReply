@@ -29,10 +29,5 @@ setTimeout(function(){
 //set time out and submit the reply
 setTimeout(function(){
   document.getElementById('fastpostmessage').value = msg;
-  var capcha = document.getElementById('secqaa_SmzKppO0');
-  if(capcha != null)
-  {
-    console.log(capcha);
-  }
-  //document.getElementById("fastpostform").submit();
+  document.getElementById("fastpostform").submit();
 }, pause);
