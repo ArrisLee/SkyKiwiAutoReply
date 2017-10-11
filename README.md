@@ -3,9 +3,9 @@ A tiny chrome plugin to auto reply threads on Skykiwi BBS
 
 # Installation
 * Download or clone the repository/directory
-* In manifest.json, replace <your_thread_id_here> with your thread id (i.e., "tid = 000000000" in the url), remember DO NOT DELETE the star(wild card) notation.
+* In manifest.json, replace <your_thread_id_here> with your thread id (i.e., "tid = 000000000" in the url). NOTCIE: DO NOT DELETE the star(wild card) notation.
 * In myscript.js, you can setup you own prefer replies set(i.e., strings in 'dataset') and your max and min waiting time(1000 equals to 1 sec).
-* Open and run the extension with the built-in "developer mode"(more tools->extensions->tick the "developer mode" check box on the right corner)
+* Open and run the extension in Chrome web browser with its built-in "developer mode"(more tools->extensions->tick the "developer mode" check box on the right corner->click "load unpacked extension" and locate it to the extension directory)
 * The extension will run automatically when you login the BBS and open the thread page. You can use the Chrome inspect function to check the running status on javascript console terminal.
 
 
