@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var dataset = ["your messages one","your messages two"];
 
   //set minumun and maxiam waiting time for autoreply
-  var max = 60000;
+  var max = 180000;
   var min = 30000;
   var pause = Math.random() * (max - min) + min;
 
