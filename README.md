@@ -1,5 +1,5 @@
 # SkyKiwiAutoReply
-A tiny chrome plugin to auto reply threads on Skykiwi BBS
+A tiny chrome plugin to auto reply threads on Skykiwi BBS (Discuz! X2)
 
 # Installation
 * Download or clone the repository/directory
